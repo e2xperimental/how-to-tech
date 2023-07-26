@@ -34,8 +34,10 @@ These instructions were tested on a Pixel 6 running Android 13.
 9. Once installed, you can rename it to your destination, ie: "Mexico."
 
 ## Once you arrive at your destination
-1. vre
-2. Turn on your eSIM line and it will activate automatically.
+1. Go to Settings > Network & Internet
+2. Click on SIMs
+3. Select the eSIM you added
+4. Turn on your eSIM line and it will activate automatically.
 
 This can take up to five minutes.
 if you experience longer wait times or other issues, please refer to their [troubleshooting guide]().
