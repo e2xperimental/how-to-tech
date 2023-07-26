@@ -40,7 +40,7 @@ These instructions were tested on a Pixel 6 running Android 13.
 4. Turn on your eSIM line and it will activate automatically
 5. Turn on Data Roaming.
 6. Then tap on Access Point Names
-7. Select Internet and update the APN field with *internet*
+7. Select Internet and update the APN field with **internet**
 
 This can take up to five minutes.
 if you experience longer wait times or other issues, please refer to their [troubleshooting guide]().
