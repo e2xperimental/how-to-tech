@@ -24,10 +24,10 @@ These instructions were tested on a Pixel 6 running Android 13.
 ### On your Pixel 6
 
 2. Go to Settings > Network & Internet
-3. Click the plus (+) sign next to SIMS
-4. On the "Connect to mobile network" screen, click "Download a SIM instead"
-5. Click Next
-6. On the "Confirm your network" screen, click "+ Use a different network"
+3. Tap the plus (+) sign next to SIMS
+4. On the "Connect to mobile network" screen, tap "Download a SIM instead"
+5. Tap Next
+6. On the "Confirm your network" screen, tap "+ Use a different network"
 7. On the "Scan QR code from network" screen, take a picture of the QR code in your confirmation email.
 8. Select download
    (The plan is called "Connect")
@@ -35,9 +35,12 @@ These instructions were tested on a Pixel 6 running Android 13.
 
 ## Once you arrive at your destination
 1. Go to Settings > Network & Internet
-2. Click on SIMs
-3. Select the eSIM you added
-4. Turn on your eSIM line and it will activate automatically.
+2. Tap on SIMs
+3. Select your international eSIM line
+4. Turn on your eSIM line and it will activate automatically
+5. Turn on Data Roaming.
+6. Then tap on Access Point Names
+7. Select Internet and update the APN field with *internet*
 
 This can take up to five minutes.
 if you experience longer wait times or other issues, please refer to their [troubleshooting guide]().
