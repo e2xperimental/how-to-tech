@@ -14,6 +14,7 @@ Here's how I did it for an upcoming trip.
 5. A phone that can scan QR codes
 
 ## Purchase
+[Add instructions here.]
 
 ## Install
 These instructions were tested on a Pixel 6 running Android 13.
