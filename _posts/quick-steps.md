@@ -13,4 +13,4 @@ tags: [Microsoft]
 4. *Move to folder*: Choose folder to move emails to.
 5. Click *Finish*.
 
-Source: [Streamline Email Management with Quick Steps in Outlook](https://youtu.be/no6nKmA9uGs?si=TV0ty8lXIaRDYO3X)
+Source: [Streamline Email Management with Quick Steps in Outlook](https://youtu.be/no6nKmA9uGs?si=TV0ty8lXIaRDYO3X) (YouTube)
