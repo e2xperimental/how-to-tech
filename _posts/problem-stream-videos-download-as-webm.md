@@ -18,6 +18,3 @@ Choose the Video - H.264 + MP3 (MP4) profile
 Click Save as File
 Click Browse to choose a destination folder and file name
 Click Save to start the conversion
-
-Automatically Remove Silences in Premiere Pro | NO PLUGINS!
-https://www.youtube.com/watch?v=pbFHTTAVZDA&t=25s
