@@ -35,6 +35,6 @@ Sometimes YNAB imports them as separate transactions, even with the same amount/
 ## Tip
 If you pay your card in full each month, make sure your credit card payment category in YNAB stays green and matches your actual payment. When you transfer funds, YNAB automatically reduces that category and your card balance accordingly — no manual categorizing needed.
 
-Sources:
+## Sources
 - ChatGPT
 - https://support.ynab.com/en_us/transfer-transactions-a-guide-HJOsZz4Jj
