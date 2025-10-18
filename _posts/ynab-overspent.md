@@ -1,4 +1,9 @@
-## YNAB: Overspent category on Android
+---
+layout: post
+title: YNAB Overspent category on Android
+date: 2025-10-17 10:00:00 -0000
+category: YNAB
+---
 
 1. Tap **Home** tab
 2. Tap banner displaying "# over spent categories"
