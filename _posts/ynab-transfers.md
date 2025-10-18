@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Transactions: Reconcile internal transfers (credit card payments)
+title: Transactions - Reconcile internal transfers (credit card payments)
 date: 2025-10-18 10:00:00 -0000
 category: YNAB
 ---
