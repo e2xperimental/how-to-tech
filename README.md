@@ -1,3 +1,3 @@
-# how-to-tech
+# Software cheatsheet
 
-[Software Cheatsheets](https://e2xperimental.github.io/cheatsheet-desktop-software)
+[https://e2xperimental.github.io/software-cheatsheet](https://e2xperimental.github.io/software-cheatsheet)
