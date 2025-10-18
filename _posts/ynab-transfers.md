@@ -5,9 +5,11 @@ date: 2025-10-18 10:00:00 -0000
 category: YNAB
 ---
 
-## Problem: Reconciling transactions that are two sides of the same transaction (example: from your checking account to your credit card):
+## Problem
+Reconciling transactions that are two sides of the same transaction (example: from your checking account to your credit card):
 
-## Solution: Create one linked transfer transaction (not two separate income/expense entries) so YNAB treats it as money moving between your own accounts, not spending or income.
+## Solution
+Create one linked transfer transaction (not two separate income/expense entries) so YNAB treats it as money moving between your own accounts, not spending or income.
 
 ### Locate both sides
 - In your Checking account register, you should see an outflow, like -$2,000.00, (money leaving your checking).
